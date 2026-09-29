@@ -1,0 +1,6 @@
+specification,tone_coefficient,t_stat,outcome
+Exclude micro-caps,0.0102,2.44,Robust
+Add textual sentiment control,0.0085,2.09,Still significant
+Energy x VIX,0.0128,2.98,Amplified in volatile weeks
+Post-2018 dummy,0.0050,1.53,Weaker effect
+Firm fixed effects,0.0097,2.73,Positive

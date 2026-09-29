@@ -1,0 +1,7 @@
+variable,coefficient,t_stat,significance
+Intercept,0.038,3.98,***
+Tone Index,0.0115,2.94,**
+Pause Ratio,-0.0078,-2.53,**
+Size,-0.0012,-1.89,*
+Book-to-Market,0.0026,1.84,*
+Analyst Coverage,0.0003,1.01,n.s.
